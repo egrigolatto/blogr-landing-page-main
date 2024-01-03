@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  /* h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  } */
+}
+
+@layer components {
+  /* .btn {
+      @apply bg-red-500 inline-block py-4 px-8 text-white rounded-md;
+  } */
+}
+
+@layer utilities {
+
+  /* .filter-none {
+    filter: none;
+  }
+
+  .filter-grayscale {
+    filter: grayscale(100%);
+  } */
+
+}
